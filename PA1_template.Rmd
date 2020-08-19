@@ -49,7 +49,7 @@ hist(data.sum$steps,
 ```{r}
 mean(data.sum$steps)
 ```
--median
+- median
 ```{r}
 median(data.sum$steps)
 ```
@@ -113,7 +113,7 @@ hist(data.sum2$steps,
 ```{r}
 mean(data.sum2$steps)
 ```
--median
+- median
 ```{r}
 median(data.sum2$steps)
 ```
